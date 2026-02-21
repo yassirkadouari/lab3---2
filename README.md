@@ -1,9 +1,7 @@
 # Rapport de TP — Application Android : Formulaire & Récapitulatif
 
-**Filière :** ___________________________  
-**Nom & Prénom :** ___________________________  
-**Groupe :** ___________________________  
-**Date :** ___________________________
+**Nom & Prénom :** yasssir kadouari
+**Groupe :** 3
 
 ---
 
@@ -47,13 +45,13 @@ app/src/main/
 
 ### Écran 1 — Formulaire de saisie
 
-> *(Insérer capture ici)*
+<img width="329" height="625" alt="{15101577-CDCF-421A-890A-EC2AADB219F7}" src="https://github.com/user-attachments/assets/89f5bd3d-179c-4f23-8646-b361e17410e8" />
 
 &nbsp;
 
 ### Écran 2 — Récapitulatif
 
-> *(Insérer capture ici)*
+<img width="312" height="582" alt="{6B28A877-88BA-44F0-AA2B-BCE53E2F3CE5}" src="https://github.com/user-attachments/assets/cc2d0f43-7fcc-4130-a1fc-5e04db4ec57f" />
 
 &nbsp;
 
